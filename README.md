@@ -34,6 +34,11 @@ import pandas as pd
 labeled = pd.read_csv('labeled_tweets_sampled.csv', index_col=0, skipinitialspace=True, header=[0, 1])
 ```
 
+# ID list
+
+With the aim of facilitating replication and further research in this direction, a registry of the tweet IDs of the captured messages is published under the file `id.txt.gz`.
+We liberate this data is behalf of an academic institution (Technical University of Madrid / Universidad Politécnica de Madrid) for the sole purposes of non-commercial research.
+
 # Citation
 
 To be added
